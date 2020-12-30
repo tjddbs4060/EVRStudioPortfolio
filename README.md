@@ -2,11 +2,11 @@
 EVR Studio 내에서 작업한 소스 코드
 
 
-# Plugin 관련 업무
+## Plugin 관련 업무
 [Blueprint 전용 플러그인, C++로 변경 및 구조화]
 - Handrail : Editor Static Mesh Spawner
 
-# Physics 관련
+## Physics 관련
 [캐릭터 차량 물리 구현]
 - 언차티드4 참조
 - Physics Animation Profiles & Animation Physical Blend Weight를 사용한 물리 흔들림 구현
@@ -21,7 +21,7 @@ EVR Studio 내에서 작업한 소스 코드
   - https://youtu.be/Hcqo3jZarkM
 
 
-# Character 관련
+## Character 관련
 [캐릭터의 커버 및 코너 & 엄폐물 위 사격 구현]
 - 고스트 리콘 : 브레이크 포인트 참조
 - 커버 & 코너 & 엄폐물 센싱 구현 (Trace, Sweep)
@@ -48,7 +48,7 @@ EVR Studio 내에서 작업한 소스 코드
   - https://youtu.be/Mc--igHfmPc
 
 
-# AI 관련
+## AI 관련
 [AI Cover 진입 동작 구현]
 - 진입별 각도에 따른 Montage Section을 분리하여 구현
 - [관련 영상]
@@ -68,7 +68,7 @@ EVR Studio 내에서 작업한 소스 코드
   - https://youtu.be/5veJPgHPM4k
 
 
-# 저격총 구현
+## 저격총 구현
 [저격총 렌즈 효과 구현 (Material)]
 - Custom Stencil & Depth 효과를 이용하여, 렌즈 내부 & 외부 분리
 - 렌즈 내부에 보이는 저격총 Mesh 필터 처리
@@ -93,7 +93,7 @@ EVR Studio 내에서 작업한 소스 코드
   - https://youtu.be/_TEbSYSedjE
 
 
-# 야간 투시경 구현
+## 야간 투시경 구현
 [야간 투시경 효과 구현 (Material)]
 - Base Color와 Light Color를 함께 사용하여, 심하게 어두운 곳도 보이도록 구현
 - Noise 효과 구현
