@@ -14,11 +14,11 @@ EVR Studio 내에서 작업한 소스 코드
 - Handle에 대한 Physics Hand 고정
 - 운전 유형을 나누어, 유형별 Physics 알고리즘 적용 (평지 / 급 커브&정지 / 방향별 충돌 / 급경사 / 고르지 않은 지형)
 - 물리로 구현이 불가능한 부분은, Animation Additive & Blend를 사용하여 보정 (Animation Locomotion)
-[관련 영상]
-- https://youtu.be/R__JStxv-5s
-- https://youtu.be/Dt54orh-YX0
-- https://youtu.be/fHXG4ud6iPs
-- https://youtu.be/Hcqo3jZarkM
+- [관련 영상]
+-- https://youtu.be/R__JStxv-5s
+-- https://youtu.be/Dt54orh-YX0
+-- https://youtu.be/fHXG4ud6iPs
+-- https://youtu.be/Hcqo3jZarkM
 
 
 # Character 관련
